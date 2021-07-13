@@ -16,6 +16,3 @@ class Testing(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-# run in verbose mode to see which tests failed
-# /usr/bin/python3 /home/dakar/coding/py/pythontesting/unittest/three_testcases_v2.py -v
