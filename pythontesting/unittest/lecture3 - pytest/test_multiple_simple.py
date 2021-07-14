@@ -23,3 +23,4 @@ def test_add_string():
 # flag -rs to show details of skip (reason)
 # flag -rsf "f" to show details of failed tests
 # flag -q to run in quiet mode
+# flag --trace to enable debugger
